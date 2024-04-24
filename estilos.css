@@ -1,0 +1,37 @@
+/* Estilo para el cuerpo del documento */
+body {
+    color: #00F; /* Color del texto en azul */
+    background-color: #CFC; /* Color de fondo en verde claro */
+    font-family: Georgia, Cambria, serif; /* Fuente del texto */
+    font-size: 16px; /* Tamaño de la fuente */
+}
+
+/* Estilo para los encabezados de nivel 1 */
+h1 {
+    color: #F00; /* Color del texto en rojo */
+    font-family: Verdana, Calibri, sans-serif; /* Fuente del texto */
+    font-size: 32px; /* Tamaño de la fuente */
+}
+
+/* Estilo para los encabezados de nivel 2 */
+h2 {
+    color: #A00; /* Color del texto en rojo oscuro */
+    font-family: Verdana, Calibri, sans-serif; /* Fuente del texto */
+    font-size: 24px; /* Tamaño de la fuente */
+}
+
+/* Estilo para los elementos span */
+span {
+    color: #060; /* Color del texto en verde */
+}
+
+/* Estilo para los elementos strong */
+strong {
+    font-size: 20px; /* Tamaño de la fuente */
+}
+
+/* Estilo para los elementos em */
+em {
+    color: #FFF; /* Color del texto en blanco */
+    background-color: #000; /* Color de fondo en negro */
+}
